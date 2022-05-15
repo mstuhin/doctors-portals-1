@@ -1,0 +1,55 @@
+[
+    {
+        "_id": 1,
+        "name": "Teeth Orthodontics",
+        "slots": [
+            "05.00 AM - o5.30 AM",
+            "07.00 AM - o7.30 AM",
+            "08.00 AM - o8.30 AM",
+            "08.00 AM - o8.30 AM",
+            "08.00 AM - o8.30 AM",
+            "08.00 AM - o8.30 AM"
+        ]
+    },
+    {
+        "_id": 1,
+        "name": "Teeth Orthodontics",
+        "slots": [
+            "08.00 AM - o8.30 AM",
+            "08.00 AM - o8.30 AM",
+            "08.00 AM - o8.30 AM",
+            "08.00 AM - o8.30 AM",
+            "08.00 AM - o8.30 AM",
+            "08.00 AM - o8.30 AM"
+        ]
+    },
+    {
+        "_id": 1,
+        "name": "Teeth Orthodontics",
+        "slots": [
+            "08.00 AM - o8.30 AM",
+            "08.00 AM - o8.30 AM",
+            "08.00 AM - o8.30 AM",
+            "08.00 AM - o8.30 AM",
+            "08.00 AM - o8.30 AM",
+            "08.00 AM - o8.30 AM"
+        ]
+    },
+    {
+        "_id": 1,
+        "name": "Teeth Orthodontics",
+        "slots": []
+    },
+    {
+        "_id": 1,
+        "name": "Teeth Orthodontics",
+        "slots": [
+            "06.00 AM - o9.30 AM",
+            "09.00 AM - o9.30 AM",
+            "08.00 AM - o8.30 AM",
+            "08.00 AM - o8.30 AM",
+            "08.00 AM - o8.30 AM",
+            "08.00 AM - o8.30 AM"
+        ]
+    }
+]
