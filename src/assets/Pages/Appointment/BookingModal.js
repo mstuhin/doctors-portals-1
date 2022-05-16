@@ -18,7 +18,7 @@ const BookingModal = ({ date, treatment, setTreatment }) => {
                 <div class="modal-box">
                     <h3 class="font-bold text-lg text-secondary">Booking for: {name}</h3>
                     <form onSubmit={handleBooking} className='grid grid-cols-1 gap-5 justify-items-center mt-2'>
-                        <input type="text" disabled value={format(date, 'pp')} class="input input-bordered w-full max-w-xs" />
+                        <input type="text" disabled value={format(date, 'PP')} class="input input-bordered w-full max-w-xs" />
                         <select name='slot' class="select select-bordered w-full max-w-xs">
                             {
                                 slots.map(slot => <option value={slot}>{slot}</option>)
